@@ -34,5 +34,4 @@ _Persistencia de datos:_
 
 # Dependencias
   · Alamofire
-  · AlamofireImage
   · PromiseKit
